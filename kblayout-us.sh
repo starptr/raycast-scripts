@@ -8,7 +8,7 @@
 # Required parameters:
 # @raycast.schemaVersion 1
 # @raycast.title Select Keyboard Layout as US using macism
-# @raycast.mode fullOutput
+# @raycast.mode silent
 # @raycast.packageName macism-ext
 #
 # Optional parameters:
