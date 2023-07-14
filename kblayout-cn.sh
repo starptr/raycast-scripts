@@ -7,7 +7,7 @@
 #
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title Select JP Keyboard Layout using macism
+# @raycast.title Select Pinyin Keyboard Layout using macism
 # @raycast.mode silent
 # @raycast.packageName macism-ext
 #
